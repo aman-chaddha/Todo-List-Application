@@ -9,7 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Ayush-Kanduri/Todo-List-App_BackEnd-MENStack.git"
+		"url": "git+https://github.com/aman-chaddha/Todo-List-Application"
 	},
 	"keywords": [
 		"mongodb",
