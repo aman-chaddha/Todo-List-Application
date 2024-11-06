@@ -4,7 +4,7 @@
 	"description": "This is a todo list app using the backend MEN Stack",
 	"main": "index.js",
 	"scripts": {
-		"start": "nodemon index.js",
+		"start": "nodemon index.js && npx open http://localhost:8000",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {
@@ -17,12 +17,8 @@
 		"expressjs",
 		"todo-list-app"
 	],
-	"author": "ayush kanduri",
+	"author": "aman chaddha",
 	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/Ayush-Kanduri/Todo-List-App_BackEnd-MENStack/issues"
-	},
-	"homepage": "https://github.com/Ayush-Kanduri/Todo-List-App_BackEnd-MENStack#readme",
 	"dependencies": {
 		"cors": "^2.8.5",
 		"dotenv": "^16.0.1",
